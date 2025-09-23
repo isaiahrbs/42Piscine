@@ -41,14 +41,14 @@ In short, it’s an **intensive, hands-on challenge** that prepares students for
 
 | Chart | Module | Status | Progress |
 |:--|:--|:-:|:--|
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/60.png" width="90"> | [C 00](./c_modules/C00) | ✅ Completed | ██████▯▯▯ 60% |
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/60.png" width="90"> | [C 01](./c_modules/C01) | ✅ Completed | ██████▯▯▯ 60% |
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/55.png" width="90"> | [C 02](./c_modules/C02) | ✅ Completed | █████▯▯▯▯ 55% |
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/62.png" width="90"> | [C 03](./c_modules/C03) | ✅ Completed | ██████▯▯▯▯ 62% |
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/70.png" width="90"> | [C 04](./c_modules/C04) | ✅ Completed | ███████▯▯ 70% |
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/55.png" width="90"> | [C 05](./c_modules/C05) | ✅ Completed | █████▯▯▯▯ 55% |
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/70.png" width="90"> | [C 06](./c_modules/C06) | ✅ Completed | ███████▯▯ 70% |
-| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/52.png" width="90"> | [C 07](./c_modules/C07) | ✅ Completed | █████▯▯▯▯ 52% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/60.png" width="90"> | [C 00](https://github.com/isaiahrbs/Piscine/tree/main/C00) | ✅ Completed | ██████▯▯▯ 60% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/60.png" width="90"> | [C 01](https://github.com/isaiahrbs/Piscine/tree/main/C01) | ✅ Completed | ██████▯▯▯ 60% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/55.png" width="90"> | [C 02](https://github.com/isaiahrbs/Piscine/tree/main/C02) | ✅ Completed | █████▯▯▯▯ 55% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/62.png" width="90"> | [C 03](https://github.com/isaiahrbs/Piscine/tree/main/C03) | ✅ Completed | ██████▯▯▯▯ 62% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/70.png" width="90"> | [C 04](https://github.com/isaiahrbs/Piscine/tree/main/C04) | ✅ Completed | ███████▯▯ 70% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/55.png" width="90"> | [C 05](https://github.com/isaiahrbs/Piscine/tree/main/C05) | ✅ Completed | █████▯▯▯▯ 55% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/70.png" width="90"> | [C 06](https://github.com/isaiahrbs/Piscine/tree/main/C06) | ✅ Completed | ███████▯▯ 70% |
+| <img src="https://github.com/isaiahrbs/images/blob/main/Grades/52.png" width="90"> | [C 07](https://github.com/isaiahrbs/Piscine/tree/main/C07) | ✅ Completed | █████▯▯▯▯ 52% |
 
 ---
 
