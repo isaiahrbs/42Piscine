@@ -67,6 +67,9 @@ Context: The Piscine exams at 42 are not meant to be fully completed by beginner
 
 ## ⚡ Rushes
 
+About the Piscine Rushes: 
+During the Piscine at 42, students can choose to participate in optional weekend “Rushes” for an extra challenge. A Rush is a group project where three students team up to solve a complex problem and build a full solution in under 72 hours. These projects are designed to push collaboration, time management, and problem-solving skills even further than the regular Piscine exercises.
+
 | Chart | Rush | Status | Progress |
 |:--|:--|:-:|:--|
 | <img src="https://github.com/isaiahrbs/images/blob/main/Grades/120.png" width="90"> | [Rush 00](./rushes/rush00) | ✅ Completed | ██████████████ 120% |
