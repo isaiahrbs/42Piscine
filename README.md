@@ -54,6 +54,8 @@ In short, it’s an **intensive, hands-on challenge** that prepares students for
 
 ## 📝 Exams
 
+Context: The Piscine exams at 42 are not meant to be fully completed by beginners. They are challenging by design, and getting 30–40/100 as a newcomer is already an excellent performance. The goal is not perfection, but learning to solve problems under pressure.
+
 | Chart | Exam | Status | Progress |
 |:--|:--|:-:|:--|
 | <img src="https://github.com/isaiahrbs/images/blob/main/Grades/30.png" width="90"> | [Exam 00](./exams/exam00) | 🎯 Passed | ███▯▯▯▯▯▯▯▯ 30% |
